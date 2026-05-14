@@ -1,0 +1,14 @@
+# Best AI Insider
+
+> Monthly audit service that tells brands how AI search sees their website. Per-bot robots.txt verdicts for 22 known AI user-agents, Cloudflare AI-default detection, on-page schema audit, sitemap, llms.txt presence, SPA-shell detection, and cross-model brand-mention tracking via Perplexity + OpenRouter.
+
+The product is a managed subscription on top of an open-source MCP server. Engine is MIT-licensed at https://github.com/krissanders/ai-visibility-mcp — you can self-host the same checks. The paid tier delivers a polished monthly PDF report, change tracking, competitor comparison, and LLM-mention monitoring without you needing to wire up the infrastructure.
+
+## Pricing
+- Free: one-time audit, emailed PDF
+- Pro: $99/mo, one domain, monthly, includes LLM mention tracking and competitor compare
+- Agency: $499/mo, up to 25 client domains, white-label PDF, API
+
+## Contact
+- hello@bestaiinsider.com
+- Open-source engine: https://github.com/krissanders/ai-visibility-mcp
